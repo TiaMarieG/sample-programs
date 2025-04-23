@@ -2,7 +2,7 @@
 
 Welcome to Sample Programs in Bash! To find documentation related to the Bash code in this repo, look [here.](https://sampleprograms.io/languages/bash)
 
-## Sample Programs List - 14/37 :thinking:
+## Sample Programs List - 15/38 :thinking:
 
 In this section, we feature a list of completed and missing programs in Bash. See above for the current amount of completed programs in Bash. If you see a program that is missing and would like to add it, please submit an issue, so we can assign it to you.
 
@@ -11,6 +11,7 @@ In this section, we feature a list of completed and missing programs in Bash. Se
 Below, you'll find a list of completed code snippets in Bash. Code snippets preceded by :warning: link to a GitHub issue query featuring a possible article request issue. If an article request issue doesn't exist, we encourage you to create one. Meanwhile, code snippets preceded by :white_check_mark: link to an existing article which provides further documentation. To see the list of approved projects, check out the official Sample Programs projects list.
 
 - :warning: [Baklava in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+baklava+bash) [[Requirements](https://sampleprograms.io/projects/baklava)]
+- :warning: [Base64 Encode Decode in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+base64+encode+decode+bash) [[Requirements](https://sampleprograms.io/projects/base64-encode-decode)]
 - :warning: [Bubble Sort in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+bubble+sort+bash) [[Requirements](https://sampleprograms.io/projects/bubble-sort)]
 - :warning: [Capitalize in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+capitalize+bash) [[Requirements](https://sampleprograms.io/projects/capitalize)]
 - :warning: [Even Odd in Bash](https://github.com//TheRenegadeCoder/sample-programs-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+even+odd+bash) [[Requirements](https://sampleprograms.io/projects/even-odd)]
